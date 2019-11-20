@@ -1,0 +1,20 @@
+<style>
+div.cbox {
+    background-color: #ADD8E6;
+    padding: 0.5em;
+    text-align: justify;
+    text-justify: inter-word;
+    }
+div.title {
+    background-color: #90EE90;
+    padding: 0.5em;
+    }
+div.title2 {
+    background-color: #01D848;
+    padding: 0.5em;
+    }
+div.title1 {
+    background-color: #AADDAA;
+    padding: 0.5em;
+    }
+</style>
